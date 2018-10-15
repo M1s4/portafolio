@@ -1,0 +1,56 @@
+#desabilitar{
+  display:none !important;
+  background-color: black;
+}
+
+.sombreado:hover{
+  position:relative;
+  right:1%;
+  -webkit-transform: rotateY(180deg);
+  -webkit-transform-style: preserve-3d;
+  transform: rotateY(180deg);
+  transform-style: preserve-3d;
+}
+
+.div-flex{
+   display:flex;
+    flex-direction: row !important;
+
+}
+
+
+@media (min-width: 576px) {
+  .div-flex {
+    flex-d
+
+  }
+}
+
+@media (min-width: 768px) {
+  .div-flex {
+
+  }
+}
+
+@media (min-width: 992px) {
+  .div-flex {
+
+  }
+}
+
+@media (min-width: 1200px) {
+  .div-flex {
+
+  }
+}
+
+
+
+
+
+
+
+/*
+<div class="progress">
+  <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+</div>*/
